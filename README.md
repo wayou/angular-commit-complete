@@ -44,7 +44,7 @@ build  (Changes that affect the build system or \r\ntexternal dependencies (exam
 
 ## Preview
 
-![preview](/preview.git)
+![preview](./preview.gif)
 
 
 
