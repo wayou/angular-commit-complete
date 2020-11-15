@@ -22,7 +22,7 @@ When I say it's not perfect, I mean the fish `complete` cannot completes argumen
 curl https://raw.githubusercontent.com/wayou/angular-commit-complete/master/git.fish > ~/.config/fish/completions/git.fish
 ```
 
-## usage
+## Usage
 
 Restart the terminal session or `source ~/.config/fish/completions/git.fish` to make the complete take palces.
 
